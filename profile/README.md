@@ -10,7 +10,7 @@
 <br>
 <br>
 
-BrüCycle was developed to choose a more eco-friendly mode of transportation. Using the Brügorithm™, you will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have earned during said exercise. You will accumulate beers in your Beer "Bru" Bank based on the amount of miles and calories burned in bicycle rides you've completed. 
+BrüCycle was developed to inspire users to choose a more eco-friendly mode of transportation. Using the Brügorithm™, you will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have earned during said exercise. You will accumulate beers in your Beer "Bru" Bank based on the amount of miles and calories burned in bicycle rides you've completed. 
 
 :beer: [Learning Goals](#learning-goals)
 <br>

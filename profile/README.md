@@ -65,11 +65,10 @@ Database Design
 <br>
   ![BruCycle_DB](https://user-images.githubusercontent.com/103780823/211390915-8ba95209-28ba-4c64-8aa6-24038cb32eee.png)
   <br>
-Miro Planning board
+[Miro BruBoard](https://miro.com/app/board/uXjVP1oyu60=/#tpicker-content)
 <br>
   <img width="1497" alt="Screenshot 2023-01-11 at 10 06 14 AM" src="https://user-images.githubusercontent.com/108167041/211884129-d20d44af-179a-492a-b3a3-268329ceb022.png">
 <br>
-[Miro BruBoard](https://miro.com/app/board/uXjVP1oyu60=/#tpicker-content)
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-6.0.6-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 <br>

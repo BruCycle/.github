@@ -12,6 +12,8 @@
 
 Ever had one of those days where an all day brewery crawl leaves you feeling bloated, gassy, and deeply unwell? BrüCycle was developed as a way for you to alleviate those symptoms. You will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have earned during said exercise. You will accumulate beers in your Beer "Bru" Bank based on the amount miles and calories in exercise you've completed. 
 
+:beer: [Learning Goals](#learning-goals)
+<br>
 :beer: [Project Overview](#project-overview)
 <br>
 :beer: [Planning](#planning)
@@ -23,6 +25,18 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
 :beer: [Contributors](#contributors)
 <br>
 
+### Learning Goals
+Back end
+  -
+  - Consume two or more external APIs 
+  - Create a project with a separate frontend and backend
+  - Code follows DRY and SRP design
+  
+ Front End
+  -
+  - Use an external OAuth provider to authenticate users 
+  - Professional quality HTML and CSS, color palette is pleasing and suitable to the target audience
+  - Application works in multiple browsers (Chrome, Safari, Firefox, etc)
 
 ### Project Overview
 

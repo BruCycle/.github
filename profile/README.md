@@ -67,7 +67,7 @@ Database Design
   <br>
 [Miro BruBoard](https://miro.com/app/board/uXjVP1oyu60=/#tpicker-content)
 <br>
-  <img width="1497" alt="Screenshot 2023-01-11 at 10 06 14 AM" src="https://user-images.githubusercontent.com/108167041/211884129-d20d44af-179a-492a-b3a3-268329ceb022.png">
+  <img width="1059" alt="Screenshot 2023-01-11 at 1 58 08 PM" src="https://user-images.githubusercontent.com/108167041/211927177-20c23cbe-2636-43de-81af-15d9f1a3c1b4.png">
 <br>
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-6.0.6-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)

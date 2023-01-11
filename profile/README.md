@@ -91,6 +91,7 @@ Database Design
  
 
 ### Deployment
+Check out our live app here: 
 [Brücycle Website](https://brucycle-fe.herokuapp.com/)
 
 ### Contributors

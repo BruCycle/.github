@@ -54,7 +54,7 @@ Back end
   - Go to ```config/application.yml```
   - Name your API keys from Strava ```strava_client_id``` and ```strava_client_secret``` respectfully
 - Run ```rails db:{create,migrate}```
-- Run the test suite with ```bundle exec rspec.```
+- Run the test suite with ```bundle exec rspec```
 
 
 <br>
